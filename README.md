@@ -1,2 +1,2 @@
 # resume
-LaTeX files for Resume
+LaTeX files for Resume (needs updating)
